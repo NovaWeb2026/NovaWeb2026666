@@ -1,6 +1,0 @@
-{
-  "name": "novaweb-proxy",
-  "version": "1.0.0",
-  "description": "Proxy serverless para el chatbot de Nova Web",
-  "private": true
-}
